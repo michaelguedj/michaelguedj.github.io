@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Michael Guedj</title> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+
+<!-- ------------------------------------------------- -->
+<a href="https://www.utec77.fr/jeunes/diplomes-filiere/informatique-technologies-numeriques-cybersecurite-fibre-optique">
+	<img src="https://www.utec77.fr/sites/default/themes/utec/logo.png" height="100">
+</a>
+
+
+
+<!-- ===================================================================== -->
+<hr/>
+<h1>Michael Guedj</h1>
+<b>E-mail:</b> 
+<a href="mailto:michael.guedj@seineetmarne.cci.fr">michael.guedj@seineetmarne.cci.fr</a>
+<br><br>
+At: Department of Informatics, CFA UTEC - CCI 77, CCI Paris Ile-de-France, France.
+
+
+<!-- ===================================================================== -->
+
+	
+<!-- ===================================================================== -->
+<hr/>
+<ul>
+<li> <a href="https://github.com/michaelguedj"> 
+	GitHub </a>
+</ul>
+
+<a href="index.html"><-- Back to main page</a>
+
+<!-- ===================================================================== -->
+<hr/>
+<h1>Research</h1>
+<ul>
+	
+<!-- ------------------------------------------------- -->
+<li>
+<b>An Extended Big Theta Master Theorem for Divide-and-Conquer Sequences. </b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-03329412">HAL</a>]
+<br>Michael Guedj.
+<br>2021.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>A Simple but Powerful Extension of the Master Theorem for Divide-and-Conquer Sequences. </b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-03329411">HAL</a>]
+<br>Michael Guedj.
+<br>2021.
+<p>
+</li>
+	
+<!-- ------------------------------------------------- -->
+<li>
+<b>Explicitation of Domains of Divide-and-Conquer Sequences.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-02902441">HAL</a>]
+<br>Michael Guedj.
+<br>2020.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>An Asymptotic Stability Theorem for Divide-and-Conquer Sequences.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-02902407">HAL</a>]
+<br>Michael Guedj.
+<br>2020 -- 2021.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Domains Characterizations of Divide-and-Conquer Sequences.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-02873836">HAL</a>]
+<br>Michael Guedj.
+<br>2020.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Ranking Preferences Deduction Based on Semantic Similarity for the
+Stable Marriage Problem.</b>
+<!-- <br>[<a href="">HAL</a>] -->
+<br>Michael Guedj.
+<br>
+In: Cognitive Informatics and Cognitive Computing (ICCI*CC).
+<br>
+IEEE. 2016.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Levelized Taxonomy Approach for the Job Seeking/Recruitment Problem.</b>
+<!-- <br>[<a href="">HAL</a>] -->
+<br>Michael Guedj.
+<br>
+In: Computational Science and Engineering (CSE).
+<br>
+IEEE. 2016.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>A BSP Algorithm for On-The-Fly Checking CTL* Formulas on Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-00950399">HAL</a>]
+<br>F. Gava, M. Guedj and F. Pommereau.
+<br>
+Journal of SuperComputing.
+<br> 
+Springer. 2014.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Deductive Verification of State-Space Algorithms.</b>
+<!-- <br>[<a href="">HAL</a>] -->
+<br>J. Fortin, F. Gava and M. Guedj.  
+<br>
+In: integrated Formal Methods (iFM), LNCS. 
+<br>
+Springer. 2013.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>A BSP Algorithm for On-The-Fly Checking CTL* Formulas on Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-00950415">HAL</a>]
+<br>F. Gava, M. Guedj and F. Pommereau.  
+<br>
+In: Parallel and Distributed Computing (PDCAT). 
+<br>
+IEEE. 2012.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>A BSP Algorithm for On-The-Fly Checking LTL Formulas on Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-00868689">HAL</a>]
+<br>F. Gava, M. Guedj and F. Pommereau.  
+<br>
+In: Parallel and Distributed Computing (ISPDC). 
+<br>
+IEEE. 2012.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Performance Evaluations of a BSP Algorithm for State Space Construction of Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-00745201">HAL</a>]
+<br>F. Gava, M. Guedj and F. Pommereau.  
+<br>
+In: Parallel, Distributed, and Network-Based Processing (PDP). pages 170-174. 
+<br>
+IEEE. 2012.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>A BSP Algorithm for the State Space Construction of Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/hal-00669177">HAL</a>]
+<br>F. Gava, M. Guedj and F. Pommereau.  
+<br>
+In: Workshop on Parallel and Distributed Methods in verifiCation (PDMC, affiliated to conference SPIN).
+<br>
+IEEE. 2010.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>BSP Algorithms for LTL & CTL* Model Checking of Security Protocols.</b>
+<br>[<a href="https://hal.archives-ouvertes.fr/tel-02614938">HAL</a>]
+<br>Michael Guedj.
+<br>PhD thesis, LACL.
+<br>Université Paris-Est. 2012.
+<p>
+</li>
+
+<!-- ------------------------------------------------- -->
+<li>
+<b>Equations et langages formels, le cas quadratique. 
+<i>Equations and Formal Languages, the Quadratic Case (in French)</i>.</b>
+<br>[<a href="https://github.com/michaelguedj/michaelguedj.github.io/blob/master/2007__GUEDJ_MASTER_THESIS.pdf">PDF</a>]
+<br>Michael Guedj. 
+<br>Master thesis, LaBRI. 
+<br>Université de Bordeaux. 2007.
+<p>
+</li>
+
+</ul>
+
+</body>
+</html>

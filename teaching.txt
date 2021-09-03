@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Michael Guedj</title> 
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+
+
+<!-- ------------------------------------------------- -->
+<a href="https://www.utec77.fr/jeunes/diplomes-filiere/informatique-technologies-numeriques-cybersecurite-fibre-optique">
+	<img src="https://www.utec77.fr/sites/default/themes/utec/logo.png" height="100">
+</a>
+
+
+
+<!-- ===================================================================== -->
+<hr/>
+<h1>Michael Guedj</h1>
+<b>E-mail:</b> 
+<a href="mailto:michael.guedj@seineetmarne.cci.fr">michael.guedj@seineetmarne.cci.fr</a>
+<br><br>
+At: Department of Informatics, CFA UTEC - CCI 77, CCI Paris Ile-de-France, France.
+
+
+<!-- ===================================================================== -->
+
+	
+<!-- ===================================================================== -->
+<hr/>
+<ul>
+<li> <a href="https://github.com/michaelguedj"> 
+	GitHub 
+	</a>
+</ul>
+
+
+
+<a href="index.html"><-- Back to main page</a>
+
+
+<!-- ===================================================================== -->
+<hr/>
+<h1>Enseignement (Teaching in French)</h1>
+
+<a href="https://github.com/michaelguedj/michaelguedj.github.io/blob/master/CV%20INT-V5-BTS-SIO-SISR.doc">
+	Modèle de CV du CFA UTEC à télécharger (pour les BTS SIO SISR 1)
+</a>
+.
+	
+<ul> 
+
+<li> <!- ----------------------------------------- ->
+	<b> Algorithmique de base en Python : </b>
+	<a href="https://github.com/michaelguedj/ens__algo_python/blob/master/memo_python_et_algorithmique.pdf">
+		notes de cours
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__algo_python/blob/master/tp_algorithmique_de_base_en_python.pdf">
+		support de TP
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__algo_python">
+		corrections des TP
+	</a>	
+	.
+<p>
+</li>
+	
+<li> <!- ----------------------------------------- ->
+	<b> Algorithmique avancée : </b> 
+	<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/algorithmique_avance.pdf">
+		notes de cours
+	</a>.
+	<ul>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/exemple_basique_poo_py.py">
+				Exemple basique POO Python
+			</a>.
+		</li>
+		<li> Dans le fascicule 
+				<a href="https://github.com/michaelguedj/ens__prog_sci_python/blob/master/programmation_sci_en_python.pdf"> 
+					Programmation scientifique en Python 
+				</a>
+				(
+				<a href="https://github.com/michaelguedj/ens__prog_sci_python/tree/master/prog_sci_python__tp__correction"> 
+					les corrections sont ici 
+				</a>
+				) : 
+			<ul>
+				<li> TP – Utilisation de fonctions mathématiques ;</li> 
+				<li> Sujet d’étude 1 : opérations binaires ;</li> 
+				<li> Sujet d’étude 3 : tournoi de jeu vidéo ;</li>
+				<li> TP – Opérations sur points.</li>
+			</ul>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp11.pdf">
+				TP sur la récursivité </a> 
+	
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp11.py">correction </a>).
+		</li>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_aa__arbre__1.pdf">
+				TP sur les abres binaires </a> 
+			
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_arbres_correction.py">correction</a>).
+		</li>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_aa__arbre__2.pdf">
+				TP sur les abres binaires (2)</a> 
+			
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_arbres_2__correction.py">correction</a>).
+		</li>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_aa__graphe__1.pdf">
+				TP sur les graphes non orientés</a> 
+
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_graphes.py">correction</a>).
+		</li>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_aa__graphes__bfs.pdf">
+				TP sur l'algorithme de parcours en largeur de graphe</a>
+			
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_graphes_bfs.py">correction</a>).
+		</li>
+	</ul>
+<p>
+</li>
+
+
+
+<li> <!- ----------------------------------------- ->
+	<b>PPE BTS SISR 1 : </b>
+	<a href="https://github.com/michaelguedj/ens__PPE">
+		consignes
+	</a>
+	.
+<p>
+</li>
+	
+
+	
+<li> <!- ----------------------------------------- ->
+	<b>Programmation en C : </b> 
+	<a href="https://github.com/michaelguedj/ens__programmation_c/blob/master/programmation_en_c.pdf">
+		notes de cours
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__programmation_c/blob/master/tp_de_programmation_en_c.pdf">
+		support de TP
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__programmation_c">
+		corrections des TP
+	</a>	
+	;
+	<a href="https://github.com/michaelguedj/ens__programmation_c/tree/master/PROG_C___EXEMPLES">
+		quelques exemples
+	</a>
+	.
+<p>
+</li>
+
+<li> <!- ----------------------------------------- ->
+	<b>Programmation en Java : </b>
+	<a href="https://github.com/michaelguedj/ens__poo_java/blob/master/poo_java__v0-2.pdf">
+		notes de cours
+	</a>
+	.
+<p>
+</li>
+
+<li> <!- ----------------------------------------- ->
+	<b>Programmation scientifique en Python : </b>
+	<a href="https://github.com/michaelguedj/ens__prog_sci_python/blob/master/programmation_sci_en_python.pdf">
+		support de TP
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__prog_sci_python/tree/master/prog_sci_python__tp__correction">
+		corrections des TP
+	</a>	
+	.
+<p>
+</li>
+	
+<li> <!- ----------------------------------------- ->
+	<b>Scripts Systèmes : </b>
+	<a href="https://github.com/michaelguedj/ens__scripts_systemes/blob/master/TP_Scripts_Systemes__Dr_M_GUEDJ.pdf">
+		support de TP
+	</a> 
+	;
+	<a href="https://github.com/michaelguedj/ens__scripts_systemes/blob/master/memo_linux.pdf">
+		mémo Linux
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__scripts_systemes/tree/master/exemples">
+		quelques exemples
+	</a>	
+	;
+	<a href="https://github.com/michaelguedj/ens__scripts_systemes/blob/master/DOTvimrc">
+		exemple de .vimrc
+	</a>
+	;
+	<a href="http://archive.ubuntu.com/ubuntu/dists/bionic/main/installer-amd64/current/images/netboot/mini.iso">
+		mini iso Ubuntu 18.04 "Bionic Beaver" 64MB
+	</a>
+	.
+<p>
+</li>
+
+</ul>
+	
+
+<!-- ===================================================================== -->
+<h1> Archives </h1>
+<ul>
+
+<li> <!- ----------------------------------------- ->
+	<b> Algorithmes d'optimisation : </b>
+	<a href="https://github.com/michaelguedj/ens__algorithmes_d_optimisation/blob/master/algo_optimisation.pdf">
+		notes de cours
+	</a>.
+	<ul>
+		<li> 
+			<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_algo_aa__coloration_graphe.pdf">
+				TP sur la coloration gloutonne de graphe</a>
+			
+			(<a href="https://github.com/michaelguedj/ens__algorithmique_avancee/blob/master/tp_coloration_de_graphe.py">correction</a>).
+		</li>
+
+	</ul>
+<p>
+</li>
+
+<li> <!- ----------------------------------------- ->
+	<b>Probabilités discrètes : </b>
+	<a href="https://github.com/michaelguedj/ens__probabilites_discretes/blob/master/probabilites_discretes.pdf">
+		notes de cours
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__probabilites_discretes/blob/master/resume_proba_discretes.pdf">
+		résumé
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__probabilites_discretes/blob/master/tp_proba_discretes.pdf">
+		support de TP
+	</a>	
+	.
+<p>
+</li>
+
+
+<li> <!- ----------------------------------------- ->
+	<b> Bases de Réseaux : </b>
+	<a href="https://github.com/michaelguedj/ens__bases_de_reseaux/blob/master/bases_de_reseaux__v3-6.pdf">
+		notes de cours
+	</a>
+	;
+	<a href="https://github.com/michaelguedj/ens__bases_de_reseaux/blob/master/TP_bases_de_reseaux.pdf">
+		support de TP
+	</a> 
+	.
+<p>
+</li>
+</ul>
+
+
+</body>
+</html>
