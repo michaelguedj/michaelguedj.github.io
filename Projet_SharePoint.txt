@@ -1,0 +1,57 @@
+
+CONSIGNES
+===========
+
+Vous êtes une équipe chargée de créer un espace collaboratif pour une organisation (entreprise, association, école…).
+
+Vous devez concevoir un site SharePoint fonctionnel permettant :
+- de partager des documents
+- d'organiser l’information
+- de collaborer efficacement
+
+
+Livrable
+-----------
+- Un site SharePoint fonctionnel
+- Une structure de documents claire
+- Une gestion des droits (même simple)
+- Une courte présentation (5–10 min)
+
+
+Détail
+-----------
+1. Un site d’équipe
+- page d’accueil personnalisée
+- description du projet
+
+2. Bibliothèques de documents
+Exemples :
+- “Documents internes”
+- “Ressources”
+- “Projets”
+avec :
+- dossiers
+- noms cohérents
+
+3. Gestion des droits
+Au moins 2 rôles :
+- lecteurs
+- contributeurs
+
+4. Une liste SharePoint
+Exemples :
+- suivi de tâches
+- liste de contacts
+- planning
+
+
+Idées de projets :
+- Startup (RH, marketing, projets)
+- Association
+- École / classe
+- Événement (festival, conférence)
+- Service d’entreprise (IT, RH…)
+
+
+Vous pourrez mettre à jour votre CV avec cette expérience, par exemple :
+« Conception d’un site collaboratif avec SharePoint (gestion documentaire, droits utilisateurs, organisation de l’information) »

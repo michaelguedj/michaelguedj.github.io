@@ -1,0 +1,83 @@
+
+
+## Présentation de SharePoint
+
+SharePoint est un outil de la suite Microsoft 365 qui permet de créer des espaces collaboratifs en ligne.
+
+---
+
+### 🎯 1. Création de sites intranet
+
+Avec SharePoint, on peut créer :
+
+* des **sites d’équipe** (pour collaborer sur des projets)
+* des **sites de communication** (intranet, diffusion d’informations)
+
+Concrètement, cela permet de :
+
+* créer des pages internes
+* publier des actualités
+* centraliser des ressources (RH, IT, etc.)
+
+---
+
+### 📁 2. Partage de documents
+
+SharePoint fonctionne comme un **serveur de fichiers en ligne** :
+
+* stockage de documents (Word, PDF, Excel…)
+* accès via un navigateur web
+* coédition en temps réel avec Microsoft Word ou Microsoft Excel
+
+Fonctionnalités principales :
+
+* gestion des versions (historique des modifications)
+* partage par lien
+* organisation en bibliothèques et dossiers
+
+---
+
+### 🔐 3. Gestion des droits utilisateurs
+
+SharePoint permet de contrôler précisément les accès :
+
+On peut définir :
+
+* qui peut consulter
+* qui peut modifier
+* qui peut administrer
+
+Niveaux de droits classiques :
+
+* **Lecture**
+* **Contribution**
+* **Contrôle total**
+
+Ces droits peuvent être appliqués :
+
+* à un site
+* à un dossier
+* à un document
+
+---
+
+### 🔗 4. Intégration avec les outils Microsoft
+
+SharePoint s’intègre avec :
+
+* Microsoft Teams (les fichiers Teams sont stockés dans SharePoint)
+* OneDrive (stockage personnel)
+* l’ensemble de Microsoft 365
+
+---
+
+### 🧠 Conclusion
+
+SharePoint est un outil central de collaboration en entreprise.
+Il permet de :
+
+* créer un intranet
+* partager des documents
+* gérer les droits d’accès
+
+Il est largement utilisé pour organiser le travail en équipe et centraliser l’information.
